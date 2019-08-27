@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 *  June-Aug 2019: Summer Intern
-  * [Verzeo.in] (https://verzeo.in/internship-program)
+  * [Verzeo.in](https://verzeo.in/internship-program)
   * Duties included: Applying Machine Algorithms to Real World Problems . Completed two Projects.
     
 Skills
