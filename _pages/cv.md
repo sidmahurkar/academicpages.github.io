@@ -11,49 +11,49 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech in Computer Science Engineering, [VIT Vellore](https://vit.ac.in/), 2021 (expected)
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+*  June-Aug 2019: Summer Intern
+  * [Verzeo.in] (https://verzeo.in/internship-program)
+  * Duties included: Applying Machine Algorithms to Real World Problems . Completed two Projects.
+    
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C
+* Python
+* Deep Learning Frameworks
+  * Pytorch
+  * Keras
+  * TensorFlow
+* Pandas
+* Numpy
+* Matplotlib
+* Scikit
+* Web Development
+  * HTML5
+  * CSS
+  * Bootstrap
+  * JavaScript
+  
+Interests
+======
+* Machine Learning
+  * Natural Language Processing & NLG
+  * Computer Vision
+  * Competitive Data Science
+* Python Programming
 
-Publications
+Projects
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Image Classification on Indoor Scenery Images
+  * [code](https://github.com/sidmahurkar/Image-Classification-on-Indoor-Scenery-Images)
+  * [dataset](http://web.mit.edu/torralba/www/indoor.html)
+* Extractive Text Summarization
+  * [code](https://github.com/sidmahurkar/Basic-Text-Summarization)
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Member at Service to the Society , VIT Vellore
