@@ -10,6 +10,8 @@ redirect_from:
 
 {% include base_path %}
 
+Check out the CV [here](https://drive.google.com/file/d/177jiYovCCKy27THJk6lVtSpt202DDzf4/view?usp=sharing)
+
 Education
 ======
 * B.Tech in Computer Science Engineering, [VIT Vellore](https://vit.ac.in/), 2021 (expected)
